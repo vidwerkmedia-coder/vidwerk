@@ -1,0 +1,8 @@
+body{
+    background-color: #030006;
+    /* background-color: #ddd; */
+}
+*{
+    scroll-behavior: smooth;
+    scroll-padding-top: 4rem;
+}
