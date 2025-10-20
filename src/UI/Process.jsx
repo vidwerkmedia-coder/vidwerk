@@ -55,7 +55,7 @@ function Process() {
               </a>
           </li>
         </ol>
-        <img src={Graphic01} alt="" className='w-[20rem] md:w-[30rem] rounded-xl border opacity-70 md:opacity-90 border-[#353535]' />
+        {/* <img src={Graphic01} alt="" className='w-[20rem] md:w-[30rem] rounded-xl border opacity-70 md:opacity-90 border-[#353535]' /> */}
         </div>
         </div>
     )
