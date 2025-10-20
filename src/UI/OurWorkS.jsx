@@ -10,10 +10,10 @@ function OurWorkS() {
     const [activeIndex, setActiveIndex] = useState(0);
 
     const videoIds = [
+        "-JdYmhPMTi0",
         "8V79Om2TTHg",
         "2uPQfPjGJyM",
         "cnTaUmRNRCM",
-        "-JdYmhPMTi0"
     ];
 
     const opts = {
