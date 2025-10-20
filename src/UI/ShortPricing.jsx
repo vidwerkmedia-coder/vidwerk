@@ -13,7 +13,7 @@ function ShortPricing() {
                         <h2 className='opacity-80 font-light'>Starter package</h2>
                         <h2 className=' text-[36px] pt-2 font-medium'>$25 <span className='text-[16px] opacity-80 font-light'>/video</span> </h2>
                         <p className='text-[14px] pt-2 pb-6 opacity-60 font-montserrat font-regular'>Best for creators, short-form content, reels, tiktoks</p>
-                        <RainbowButton variant="dark" className='text-center hover:scale-102 w-full border px-24 py-2 font-medium rounded-lg text-[16px]' ><a href="#">Get Started</a></RainbowButton>
+                        <RainbowButton variant="dark" className='text-center hover:scale-102 w-full border px-24 py-2 font-medium rounded-lg text-[16px]' ><a href="https://wa.me/+919389685509">Get Started</a></RainbowButton>
                         <hr className='opacity-40 mt-8 mb-3' />
                         {/* FEATURES */}
                         <h2 className='opacity-60 font-light flex flex-row gap-2 pt-3 items-center'><CircleCheckBig size={20} /> $250/month for up to 12 reels (upto 60 sec)</h2>
@@ -29,7 +29,7 @@ function ShortPricing() {
                         <h2 className='opacity-80 font-light'>Professional package</h2>
                         <h2 className=' text-[36px] pt-2 font-medium'>$60 <span className='text-[16px] opacity-80 font-light'>/video</span> </h2>
                         <p className='text-[14px] pt-2 pb-6 opacity-60 font-montserrat font-regular'>Best for youtube videos, brand promos, podcasts</p>
-                        <RainbowButton className='text-center hover:scale-102 w-full border text-black px-24 py-2 font-medium rounded-lg text-[16px]' ><a href="#">Get Started</a></RainbowButton>
+                        <RainbowButton className='text-center hover:scale-102 w-full border text-black px-24 py-2 font-medium rounded-lg text-[16px]' ><a href="https://wa.me/+919389685509">Get Started</a></RainbowButton>
                         <hr className='opacity-40 mt-8 mb-3' />
                         {/* FEATURES */}
                         <h2 className='opacity-60 font-light flex flex-row gap-2 pt-3 items-center'><CircleCheckBig size={20} /> $500/month for 8–10 videos (upto 60 sec)</h2>
@@ -44,7 +44,7 @@ function ShortPricing() {
                         <h2 className='opacity-80 font-light'>Agency/Premium package</h2>
                         <h2 className=' text-[36px] pt-2 font-medium'>$900 <span className='text-[16px] opacity-80 font-light'>/month</span> </h2>
                         <p className='text-[14px] pt-2 pb-6 opacity-60 font-montserrat font-regular'>Best for brands, agencies & influencers with recurring work</p>
-                        <RainbowButton variant="dark" className='text-center hover:scale-102 w-full border px-24 py-2 font-medium rounded-lg text-[16px]' ><a href="#">Get Started</a></RainbowButton>
+                        <RainbowButton variant="dark" className='text-center hover:scale-102 w-full border px-24 py-2 font-medium rounded-lg text-[16px]' ><a href="https://wa.me/+919389685509">Get Started</a></RainbowButton>
                         <hr className='opacity-40 mt-8 mb-3' />
                         {/* FEATURES */}
                         <h2 className='opacity-60 font-light flex flex-row gap-2 pt-3 items-center'><CircleCheckBig size={20} /> Custom quote available for volume projects</h2>
