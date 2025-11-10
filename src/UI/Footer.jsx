@@ -47,9 +47,9 @@ function Footer() {
             <a href="http://www.linkedin.com/in/vidwerk-media-8364bb389" className="border border-[#353535] bg-zinc-900 p-2 rounded-lg opacity-80 hover:opacity-100 transition">
               <Linkedin size={26} strokeWidth={1} />
             </a>
-            <a href="/" className="border border-[#353535] bg-zinc-900 p-2 rounded-lg opacity-80 hover:opacity-100 transition">
+            {/* <a href="/" className="border border-[#353535] bg-zinc-900 p-2 rounded-lg opacity-80 hover:opacity-100 transition">
               <Instagram size={26} strokeWidth={1} />
-            </a>
+            </a> */}
             <a href="https://wa.me/+919389685509" target='_blank' className="border border-[#353535] bg-zinc-900 p-2 rounded-lg opacity-80 hover:opacity-100 transition">
               <MessageSquare size={26} strokeWidth={1} />
             </a>
